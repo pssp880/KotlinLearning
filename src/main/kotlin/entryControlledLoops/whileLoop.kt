@@ -1,4 +1,4 @@
-package EntryControlledLoops
+package entryControlledLoops
 
 /**
  * A loop is a programming structure that repeats a sequence of instructions until a specific condition is met.
